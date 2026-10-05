@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2938c3c3b85704488af68677b201c18, type: 3}
+  m_Name: OrderData_grape_tart
+  m_EditorClassIdentifier: 
+  productName: "\u3076\u3069\u3046\u306E\u30BF\u30EB\u30C8"
+  sprite: {fileID: 21300000, guid: 97907969dec5db24a98664d56c1896e6, type: 3}
+  ingredients:
+  - itemData: {fileID: 11400000, guid: ddc8bba9a3151b84d9414111b005596e, type: 2}
+    num: 3
+  price: 1200
+  famePoint: 30
+  rank: 0

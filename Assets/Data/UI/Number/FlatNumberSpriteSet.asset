@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fcd4da98e9b3e44cac6dd7ae8c47c80, type: 3}
+  m_Name: FlatNumberSpriteSet
+  m_EditorClassIdentifier: 
+  sprites:
+  - {fileID: -8767755403368510908, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: -4252973222315041530, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: -7158406324968454088, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: 6319449755633882782, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: -8318918268367362739, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: -5600528344232092232, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: 2406268100271491235, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: -8154962981373190132, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: 7995309090388438241, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}
+  - {fileID: 564206165904833529, guid: 26453db171e319e4a9b91e56f378f09b, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2938c3c3b85704488af68677b201c18, type: 3}
+  m_Name: OrderData_middle_appetizer
+  m_EditorClassIdentifier: 
+  productName: "\u30D5\u30EB\u30FC\u30C4\u30AA\u30FC\u30C9\u30D6\u30EB"
+  sprite: {fileID: 21300000, guid: d5d6068b68ec9ec4e8b6b7d2c188b619, type: 3}
+  ingredients:
+  - itemData: {fileID: 11400000, guid: b96fc1b4c54e97b46b401eaae37ea79e, type: 2}
+    num: 2
+  - itemData: {fileID: 11400000, guid: ddc8bba9a3151b84d9414111b005596e, type: 2}
+    num: 2
+  - itemData: {fileID: 11400000, guid: 052158f2b3c1b2449afbac6ccb0f5692, type: 2}
+    num: 1
+  - itemData: {fileID: 11400000, guid: a887f0ffe25b85c4f89299e488ba27a4, type: 2}
+    num: 1
+  price: 3000
+  famePoint: 60

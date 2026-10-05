@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e550ef3f270798440be17b88d58bd371, type: 3}
+  m_Name: CustomerData019
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -7262842890221021672, guid: c07a9df38fcc832429f7a0ddf12e3185, type: 3}
+  orders:
+  - {fileID: 11400000, guid: a314279c4c8ba074a82c37bc561ca4cf, type: 2}
+  - {fileID: 11400000, guid: 80ffe39f1343e274dbe22c7d00d4037c, type: 2}
+  time: 200
